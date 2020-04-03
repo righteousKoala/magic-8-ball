@@ -1,7 +1,7 @@
 userName = 'Yeetus';
 (userName === 'Yeetus') ? console.log('Hello, Yeetus!') : console.log('Hello!');
 
-const userQuestion = 'Should I put this in my butt?';
+const userQuestion = 'Is Kevin Bacon a great actor?';
 //A question is asked to our magic 8 ball!
 
 console.log(`${userName} asked: ${userQuestion}`);
