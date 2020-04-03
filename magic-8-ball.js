@@ -1,5 +1,5 @@
-userName = 'Murray';
-(userName === 'Murray') ? console.log('Hello, Murray!') : console.log('Hello!');
+userName = 'Yeetus';
+(userName === 'Yeetus') ? console.log('Hello, Yeetus!') : console.log('Hello!');
 
 const userQuestion = 'Should I put this in my butt?';
 //A question is asked to our magic 8 ball!
@@ -39,10 +39,4 @@ switch (randomNumber) {
   case 8:
     eightBall = 'Don\'t think so, sweaty.';
     break;
-}
-console.log(`${eightBall}`);
-if (randomNumber > 3) {
-  console.log('The eightball displays a number higher than 3!');
-} else {
-  console.log('The eightball displays a number lower than 3!');
 }
